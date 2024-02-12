@@ -1,0 +1,24 @@
+Tag	Description	Example	Tag	Description	Example
+CC	Coordin. Conjunction	and, but, or	SYM	Symbol	+%, &
+CD	Cardinal number	one, two, three	TO	"to"	to
+DT	Determiner	a, the	UH	Interjection	ah, oops
+EX	Existential 'there'	there	VB	Verb, base form	eat
+FW	Foreign word	mea culpa	VBD	Verb, past tense	ate
+IN	Preposition/sub-conj	of, in, by	VBG	Verb, gerund	eating
+JJ	Adjective	yellow	VBN	Verb, past participle	eaten
+JJR	Adj., comparative	bigger	VBP	Verb, non-3 sg pres	eat
+JJS	Adj., superlative	wildest	VBZ	Verb, 3 sg pres	eats
+LS	List item marker	1, 2, One	WDT	Wh-determiner	which, that
+MD	Modal	can, should	WP	Wh-pronoun	what, who
+NN	Noun, sing. or mass	llama	WP$	Possessive wh-	whose
+NNS	Noun, plural	llamas	WRB	Wh-adverb	how, where
+NNP	Proper noun, singular	IBM	$	Dollar sign	$
+NNPS	Proper noun, plural	Carolinas	#	Pound sign	#
+PDT	Predeterminer	all, both	"،	Left quote	( or )
+POS	Possessive ending	's	"	Right quote	( or )
+PRP	Personal pronoun	I, you, he	(	Left parenthesis	([,(,{,<)
+PRP$	Possessive pronoun	your, one's	)	Right parenthesis	(],),},>)
+RB	Adverb	quickly, never	,	Comma
+RBR	Adverb, comparative	faster	.	Sentence-final punc	(. ! ?)
+RBS	Adverb, superlative	fastest	:	Mid-sentence punc	(: ; ...)
+RP	Particle	up, off
